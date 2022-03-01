@@ -2,12 +2,6 @@
 
 Cases for Keyhive's UT47.2 keyboard.
 
-## Tray Mount
+## TM (Tray Mount) Case
 
-Additional hardwares
-
-|    | Amount |
-| --- | ---: |
-| Original Plate from the kit |  |
-| M2 heat set insert | 5 |
-| M2x4 screws | 5 |
+Tray mount, utilizes the original plate from the kit, need a few heat set insert and M2x4 screws.
