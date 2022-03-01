@@ -26,7 +26,7 @@ Low Profile version, the top edge almost flush with the plate. This case has no 
 
 Low Profile version, the top edge almost flush with the plate. This case has 2 open slots on the side to let the RGB underglow shine through.
 
-![TM Case RGB](renders/tmcase-lp-rgb.png "TM Case LP RGB")
+![TM Case RGB](renders/tmcase-rgb-lp.png "TM Case LP RGB")
 
 ## Additional hardwares
 
