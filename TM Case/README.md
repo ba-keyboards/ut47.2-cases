@@ -35,3 +35,9 @@ Low Profile version, the top edge almost flush with the plate. This case has 2 o
 | Original Plate from the kit |  |
 | M2 heat set insert | 5 |
 | M2x4 screws | 5 |
+
+## Notes
+
+These cases are release with MIT License, so feel free to modify, extend or integrate them. As per license, there will be no warranty or liability related to these cases.
+
+If you like these cases and find them useful, you can [buy me a coffee](https://www.buymeacoffee.com/coffeeforba).
