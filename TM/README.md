@@ -1,5 +1,17 @@
 # UT47.2 TM (Tray Mount) Case
 
+For 3D Printing usage only, not tested for CNC
+
+## Version:
+
+### TM Case RGB
+
+This case has 2 slots on the side to let the RGB underglow shine through.
+
+### TM Case
+
+This case has no slots, highly recommended to use transparent/translucent 3D print material to let the underglow diffuses.
+
 ## Additional hardwares
 
 |    | Amount |
