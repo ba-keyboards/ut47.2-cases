@@ -1,6 +1,6 @@
 # UT47.2 Cases
 
-Cases for Keyhive's UT47.2 keyboard.
+Cases for [Keyhive's UT47.2](https://keyhive.xyz/shop/ut472-kit) keyboard.
 
 ## TM (Tray Mount) Case
 
