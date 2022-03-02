@@ -1,6 +1,8 @@
 # UT47.2 TM (Tray Mount) Case
 
-For 3D Printing usage only, not tested for CNC
+For 3D Printing usage only, not tested for CNC.
+
+All cases need heat set insert, otherwise the mount holes size need to be reduced to accomodate only screws.
 
 ## Version
 
