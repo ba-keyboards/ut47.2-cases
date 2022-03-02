@@ -6,11 +6,15 @@ For 3D Printing usage only, not tested for CNC
 
 ### TM Case
 
+[UT472-TMCase.stl](TM Case/UT472-TMCase.stl)
+
 This case has no open slots, highly recommended to use transparent/translucent 3D print material to let the underglow diffuses.
 
 ![TM Case](renders/tmcase.png "TM Case")
 
 ### TM Case RGB
+
+[UT472-TMCase-RGB.stl](TM Case/UT472-TMCase-RGB.stl)
 
 This case has 2 open slots on the side to let the RGB underglow shine through.
 
@@ -18,11 +22,15 @@ This case has 2 open slots on the side to let the RGB underglow shine through.
 
 ### TM Case LP
 
+[UT472-TMCase-LP.stl](TM Case/UT472-TMCase-LP.stl)
+
 Low Profile version, the top edge almost flush with the plate. This case has no open slots, highly recommended to use transparent/translucent 3D print material to let the underglow diffuses.
 
 ![TM Case RGB](renders/tmcase-lp.png "TM Case LP")
 
 ### TM Case LP RGB
+
+[UT472-TMCase-LP-RGB.stl](TM Case/UT472-TMCase-LP-RGB.stl)
 
 Low Profile version, the top edge almost flush with the plate. This case has 2 open slots on the side to let the RGB underglow shine through.
 
