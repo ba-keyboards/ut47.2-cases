@@ -31,7 +31,7 @@ Low Profile version, the top edge almost flush with the plate. This case has 2 o
 ## Additional hardwares
 
 |    | Amount | Link |
-| --- | ---: |
+| --- | ---: | --- |
 | Original Plate from the kit | | |
 | M2 heat set insert | 5 | [Amazon](https://www.amazon.com/gp/product/B09333HP9L/) |
 | M2x4 or M2x5 screws | 5 | [MonsterBolts](https://monsterbolts.com/collections/metric-phillips-pan-head-machine-screw/products/mach-phil-pan-blk-m2) |
