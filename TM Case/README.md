@@ -4,6 +4,9 @@ For 3D Printing usage only, not tested for CNC.
 
 All cases need heat set insert, otherwise the mount holes size need to be reduced to accomodate only screws.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Buymeacoffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/coffeeforba)
+
+
 ## Version
 
 ### TM Case
